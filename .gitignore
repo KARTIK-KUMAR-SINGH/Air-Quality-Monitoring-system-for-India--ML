@@ -1,0 +1,44 @@
+# Virtual Environment
+.venv/
+venv/
+
+# Dataset
+data/raw/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Environment Variables
+.env
+
+# Python Packaging
+*.egg-info/
+dist/
+build/
+
+# Logs
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Model Files
+models/
+artifacts/
+
+# Temporary Data
+data/interim/
+data/processed/
+
+# Cache
+.pytest_cache/
+.mypy_cache/
